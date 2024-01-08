@@ -1,0 +1,22 @@
+.myheader{
+  background-color: aquamarine;
+  border: 1px solid #000;
+}
+
+.myfooter
+{
+  background-color: blueviolet;
+  border: 1px solid #000;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.myApp
+{
+  background-color: chocolate;
+  border: 1px solid #000;
+  height: auto;
+  text-align: center;
+  padding: 2px;
+}
